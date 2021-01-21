@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  Localizer
+
+  Created by Max Soiferman on 3/3/19.
+  Copyright © 2019 Max Soiferman. All rights reserved.
+*/
+
+"Hello" = "Bonjour";
+"Select current language" = "Choisissez la langue actuelle";
